@@ -35,10 +35,6 @@ To use the ACalculator application, follow these steps:
 3. The result will be displayed in the calculator's output area.
 4. To clear the calculator, click the clear (C) button.
 
-## Screenshots
-
-![ACalculator Screenshot]()
-
 ## Contributing
 
 Contributions to ACalculator are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or create a pull request.
